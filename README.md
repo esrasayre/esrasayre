@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Esra Arslan (@esrasayre)
 - 📫 I work as a **"Linguist"** at "Telus International AI Data Solutions". 
-- 👀 I’m interested mainly in "**Data Science**" and "**Analysis**". 
+- 👀 I'm becoming a data scientist, mastering Python and SQL to uncover insights within complex datasets. 
 - I also write articles on Medium; you can read them through the link 👉 https://medium.com/@lingdocs
 - Feel free to contact me if there is anything to talk about! 
 
