@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Esra Arslan (@esrasayre)
-- 📫 I work as a **"Linguist"** at "Telus International AI Data Solutions". 
-- 👀 I'm studying to become a data scientist, mastering Python and SQL to uncover insights within complex datasets. 
+- 👋 Hi, I’m Esra Arslan.
+- 📫 I work at SpreadsheetWEB, a No Code Platform to create your own applications based on Excel.
+- 👀 I majored in Linguistics and I am into Data Science.
 - I also write articles on Medium; you can read them through the link 👉 https://medium.com/@lingdocs
 - Feel free to contact me if there is anything to talk about! 
 
