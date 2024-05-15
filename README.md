@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Esra Arslan.
-- 📫 I work at SpreadsheetWEB- Pagos, a No-Code Platform to create your own applications based on Excel.
-- 👀 I majored in Linguistics and I am into Data Science.
+- 📫 I'm a Marketing and Communications Manager @SpreadsheetWEB- Pagos, a No-Code Platform to create your applications based on Excel.
+- 👀 I majored in Linguistics, and I am into Data Science.
 - I also write articles on Medium; you can read them through the link 👉 https://medium.com/@lingdocs
 - Feel free to contact me if there is anything to talk about! 
 
